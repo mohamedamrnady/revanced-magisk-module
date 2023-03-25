@@ -137,8 +137,6 @@ jobs:
           BODY="$(sed 's/^\* \*\*/↪ \*\*/g; s/^\* `/↪ \*\*/g; s/`/\*/g; s/^\* /\↪/g; s/\*\*/\*/g; s/###//g;' ../build.md)"
           MSG="*New build!*
 
-          ${BODY}
-
           *▼ Download Links:*
           Modules:
           ${MODULES}
