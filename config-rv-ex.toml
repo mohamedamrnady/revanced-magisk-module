@@ -16,7 +16,7 @@ excluded-patches = "custom-branding-icon-afn-blue custom-branding-icon-afn-red c
 included-patches = "materialyou"
 version = "auto"
 exclusive-patches = false
-module-prop-name = "youtube-rvx-ksu"
+module-prop-name = "yt-revanced-extended-ksu"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [Music-arm64]
