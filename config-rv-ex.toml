@@ -1,23 +1,26 @@
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
 compression-level = 9         # compression level for module zips. between 1 and 9
-logging-to-file = true        # enables logging of every patch process to a seperate file
-enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
+logging-to-file = false        # enables logging of every patch process to a seperate file
+enable-magisk-update = false   # set this to false if you do not want to receive updates for the module in magisk app
 build-mindetach-module = true
 
 # extended
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
-rv-brand = "ReVanced Extended"
+rv-brand = "YouTube RVX"
 
 [YouTube]
-build-mode = "both"
-excluded-patches = ""
-included-patches = ""
+enabled = true
+build-mode = "module"
+excluded-patches = "custom-branding-icon-afn-blue custom-branding-icon-afn-red custom-branding-icon-revancify custom-branding-name website custom-branding-revancify amoled theme custom-branding-mmt protobuf-spoof"
+included-patches = "materialyou"
 version = "auto"
 exclusive-patches = false
+module-prop-name = "youtube-rvx-ksu"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [Music-arm64]
+enabled = false
 build-mode = "both"
 app-name = "Music"
 excluded-patches = ""
@@ -27,6 +30,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 arch = "arm64-v8a"
 
 [Music-arm]
+enabled = false
 build-mode = "both"
 app-name = "Music"
 excluded-patches = ""
