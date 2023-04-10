@@ -1,21 +1,28 @@
 CLI: revanced-cli-2.21.0-all.jar  
-Integrations: revanced-integrations-0.101.18.apk  
-Patches: revanced-patches-2.168.18.jar  
+Integrations: revanced-integrations-0.101.30.apk  
+Patches: revanced-patches-2.168.30.jar  
 
 YouTube
 ==
-- add `Hide official header` settings https://github.com/inotia00/ReVanced_Extended/issues/445
-- fix: history menu in library sometimes disappears in tablet layout
-- fix: `Hide channel avatar section` setting is not disabled in tablet layout
-- refactor(settings): replaced `adremover` label to `hide` in layout setting
+- add `hide-double-tap-overlay-filter` patch https://github.com/inotia00/ReVanced_Extended/issues/258
+- add `hide-search-terms` patch https://github.com/inotia00/ReVanced_Extended/issues/657
+- add `Disable default video speed in live stream` settings https://github.com/inotia00/ReVanced_Extended/issues/626
+- add `Hide ticket shelf` settings https://github.com/inotia00/ReVanced_Extended/issues/687
+- remove video ads whitelist settings (no longer valid)  https://github.com/inotia00/ReVanced_Extended/issues/652
+- feat(general-ads): hide new type of ad https://github.com/inotia00/ReVanced_Extended/issues/528
+- fix(custom-seekbar-color): do not show Toast when exception occurs https://github.com/inotia00/ReVanced_Extended/issues/679
+- fix(default-video-speed): speed value not saved when changing video speed in settings
+- fix(settings): dark theme not applied in ReVanced settings https://github.com/inotia00/ReVanced_Extended/issues/690
+- fix(sponsorblock): slight audio delay when skipping segments https://github.com/inotia00/ReVanced_Extended/issues/682
+- refactor(sponsorblock): reflect the official ReVanced's source code
 - crowdin translation update
-`Arabic`, `Bulgarian`, `French`, `German`, `Italian`, `Japanese`, `Korean`, `Russian`, `Spanish`, `Ukrainian`, `Vietnamese`
+`Arabic`, `Belarusian`, `Brazilian`, `Chinese Simplified`, `Chinese Traditional`, `French`, `German`, `Greek`, `Hungarian`, `Italian`, `Japanese`, `Korean`, `Polish`, `Russian`, `Spanish`, `Ukrainian`, `Vietnamese`
 
 
 YouTube Music
 ==
-- add `enable-compact-dialog` patch
-- add `hide-new-playlist` patch https://github.com/inotia00/ReVanced_Extended/issues/185
+- crowdin translation update
+`Chinese Traditional`
 
 
 ※ Compatible ReVanced Manager: v0.0.57
@@ -26,7 +33,7 @@ YouTube Music
 - [Other Countries](https://crowdin.com/project/revancedextended)
   
 **App Versions:**  
-YouTube: 18.12.35  
+YouTube: 18.13.38  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 
