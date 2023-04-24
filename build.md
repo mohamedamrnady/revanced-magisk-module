@@ -1,20 +1,27 @@
 CLI: revanced-cli-2.21.0-all.jar  
-Integrations: revanced-integrations-0.102.1.apk  
-Patches: revanced-patches-2.168.40.jar  
+Integrations: revanced-integrations-0.102.6.apk  
+Patches: revanced-patches-2.169.5.jar  
 
 YouTube
 ==
-- fix(general-ads): `Hide general ads` hides offline download list
+- add `hide-quick-actions` patch
+- add `hide-home-button`, `hide-subscriptions-button` patch https://github.com/inotia00/ReVanced_Extended/issues/14
+- fix typo
+- fix: `hide-live-chat` patch still remains in patch list
+- fix(hide-button-container): add missing dependencies
+- fix(sponsorblock): include milliseconds in the voting menu
+- refactor(hide-button-container): add support for a/b tests
+- refactor(swipe-controls): when `Press-to-swipe` is disabled, `Press-to-swipe haptic feedback` is also disabled https://github.com/inotia00/ReVanced_Extended/issues/811
+- remove `hide-fullscreen-buttoncontainer` patch
+- update adblock filter
 - crowdin translation update
-`French`, `Polish`
+`Bulgarian`, `Chinese Traditional`, `French`, `Italian`, `Japanese`, `Korean`, `Polish`, `Spanish`, `Ukrainian`, `Vietnamese`
 
 
-YouTube Music
+ETC
 ==
-- add `share-button-hook` patch (Experimental Flags)
-: Replace share button with external download button. The package name of the default downloader can be changed through `options.toml`. (Default: PowerTube)
-- refactor(hide-new-playlist): apply a much safer patching method (also fix https://github.com/inotia00/ReVanced_Extended/issues/685)
-- refactor(hide-upgrade-button): hide upgrade banner from homepage
+- add support YouTube v18.15.40
+- drop support YouTube v18.15.38
 
 
 ※ Compatible ReVanced Manager: v0.0.57
@@ -25,7 +32,7 @@ YouTube Music
 - [Other Countries](https://crowdin.com/project/revancedextended)
   
 **App Versions:**  
-YouTube: 18.14.41  
+YouTube: 18.15.40  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 
