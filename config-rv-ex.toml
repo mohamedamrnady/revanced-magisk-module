@@ -20,7 +20,7 @@ module-prop-name = "youtube-rvx-ksu"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [Music-arm64]
-enabled = false
+enabled = true
 build-mode = "module"
 app-name = "Music"
 excluded-patches = "custom-branding-icon-afn-blue custom-branding-icon-afn-red custom-branding-icon-revancify custom-branding-mmt"
