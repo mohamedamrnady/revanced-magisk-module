@@ -103,3 +103,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/joaomgcd/tasker/"
 [Photomath]
 enabled = true
 apkmonk-dlurl = "https://www.apkmonk.com/app/com.microblink.photomath/"
+
+[VSCO]
+enabled = true
+apkmirror-dlurl = "https://www.apkmirror.com/apk/vsco/vsco-cam/"
