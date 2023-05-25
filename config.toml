@@ -16,6 +16,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 module-prop-name = "ytrv-magisk"
 
 [YouTube-Extended]
+enabled = false
 app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
@@ -27,7 +28,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 module-prop-name = "youtube-rvx-ksu"
 
 [Music-arm64]
-enabled = true
+enabled = false
 build-mode = "module"
 app-name = "Music"
 excluded-patches = "custom-branding-music-afn-blue custom-branding-music-afn-red custom-branding-icon-revancify-red custom-branding-icon-revancify-blue custom-branding-music-mmt"
@@ -49,7 +50,7 @@ arch = "arm-v7a"
 
 [Twitter]
 build-mode = "apk"
-excluded-patches = "hide-views-stats hide-ads hide-recommended-users"
+excluded-patches = "hide-views-stats"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitter-inc/twitter/"
 
