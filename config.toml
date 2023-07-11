@@ -49,7 +49,7 @@ module-prop-name = "ytmusic-rvx"
 [Twitter]
 build-mode = "apk"
 excluded-patches = "hide-views-stats"
-version = "auto"
+version = "latest"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitter-inc/twitter/"
 
 [Twitch]
