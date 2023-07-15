@@ -1,6 +1,6 @@
 YouTube-Extended: 18.25.40  
 Music-Extended: 6.10.51  
-Twitter: 9.96.0-release.0  
+Twitter: 9.97.0-release.0  
 VSCO: 323  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
