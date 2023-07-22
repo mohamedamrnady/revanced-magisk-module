@@ -18,8 +18,8 @@ module-prop-name = "ytrv-magisk"
 [YouTube-Extended]
 enabled = true
 app-name = "YouTube"
-patches-source = "kazimmt/revanced-patches"
-integrations-source = "kazimmt/revanced-integrations"
+patches-source = "inotia00/revanced-patches"
+integrations-source = "inotia00/revanced-integrations"
 rv-brand = "ReVanced Extended"
 build-mode = "module"
 excluded-patches = "custom-branding-icon-afn-blue custom-branding-icon-afn-red custom-branding-icon-revancify-red custom-branding-icon-revancify-blue custom-branding-name website amoled theme custom-branding-mmt protobuf-spoof"
@@ -37,8 +37,8 @@ apkmirror-arch = "both"                                                     # bo
 
 [Music-Extended]
 app-name = "Music"
-patches-source = "kazimmt/revanced-patches"
-integrations-source = "kazimmt/revanced-integrations"
+patches-source = "inotia00/revanced-patches"
+integrations-source = "inotia00/revanced-integrations"
 rv-brand = "ReVanced Extended"
 build-mode = "module"
 excluded-patches = "custom-branding-music-afn-blue custom-branding-music-afn-red custom-branding-icon-revancify-red custom-branding-icon-revancify-blue custom-branding-music-mmt"
@@ -49,7 +49,7 @@ module-prop-name = "ytmusic-rvx"
 [Twitter]
 build-mode = "apk"
 excluded-patches = "hide-views-stats"
-version = "auto"
+version = "latest"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitter-inc/twitter/"
 
 [Twitch]
