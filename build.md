@@ -9,7 +9,7 @@ Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for
 
 ---
 Changelog:  
-CLI: j-hc/revanced-cli-2.23.0-all.jar  
+CLI: inotia00/revanced-cli-2.22.2-all.jar  
 Integrations: ReVanced/revanced-integrations-0.114.0.apk  
 Patches: ReVanced/revanced-patches-2.186.0.jar  
 
@@ -33,7 +33,7 @@ Patches: ReVanced/revanced-patches-2.186.0.jar
 
 
 ---
-CLI: j-hc/revanced-cli-2.23.0-all.jar  
+CLI: inotia00/revanced-cli-2.22.2-all.jar  
 Integrations: inotia00/revanced-integrations-0.114.1.apk  
 Patches: inotia00/revanced-patches-2.186.1.jar  
 
