@@ -47,7 +47,6 @@ apkmirror-arch = "both"
 [Twitter]
 enabled = true
 build-mode = "apk"
-version = "latest"
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
 
 [Twitch]
