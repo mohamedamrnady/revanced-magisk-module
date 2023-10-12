@@ -26,7 +26,7 @@ apkmirror-arch = "arm64-v8a"
 module-prop-name = "ytmusic-rvx"
 
 [YouTube-Extended]
-enabled = enable
+enabled = true
 app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
