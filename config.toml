@@ -26,7 +26,7 @@ rv-brand = "inotia00 ReVanced"
 build-mode = "module"
 version = "latest"
 included-patches = "'Add splash animation' 'Hide player button background' 'MaterialYou'"
-excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube' 'Custom package name' 'Overlay buttons' 'Theme'"
+excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube' 'Custom package name' 'MicroG support' 'Overlay buttons' 'Theme'"
 
 [Tiktok]
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
