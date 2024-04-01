@@ -11,7 +11,7 @@ integrations-source = "YT-Advanced/ReX-integrations"
 rv-brand = "inotia00 ReVanced"
 arch = "arm64-v8a"
 build-mode = "module"
-version = "latest"
+version = "auto"
 excluded-patches = "'Custom branding icon YouTube Music' 'Custom branding name YouTube Music' 'Custom package name' 'MicroG support'"
 
 [Twitter]
@@ -23,7 +23,7 @@ patches-source = "YT-Advanced/ReX-patches"
 integrations-source = "YT-Advanced/ReX-integrations"
 rv-brand = "inotia00 ReVanced"
 build-mode = "module"
-version = "latest"
+version = "auto"
 included-patches = "'Add splash animation' 'Hide player button background' 'MaterialYou'"
 excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube' 'Custom package name' 'MicroG support' 'Overlay buttons' 'Theme'"
 
