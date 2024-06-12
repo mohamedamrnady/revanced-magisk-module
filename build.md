@@ -1,6 +1,5 @@
-x: 10.43.0-release.0  
-x-material-design: 10.43.0-release.0  
-Tiktok: 32.5.3  
+YouTube: 19.21.40  
+Music: 7.05.52  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
@@ -8,9 +7,9 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: j-hc/revanced-cli-4.6.0-all.jar  
-Integrations: ReVanced/revanced-integrations-1.10.0.apk  
-Patches: ReVanced/revanced-patches-4.9.0.jar  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.9.0)  
+Integrations: inotia00/revanced-integrations-1.10.1.apk  
+Patches: inotia00/revanced-patches-4.9.1.jar  
+[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v4.9.1)  
 
 Skipped:  
-Patches: inotia00/revanced-patches-4.8.6.jar    
+Patches: ReVanced/revanced-patches-4.9.0.jar    
