@@ -30,3 +30,11 @@ build-mode = "module"
 included-patches = "'Hide Create button' 'Custom theme' 'Unlock Premium' 'Sanitize sharing links' 'Fix third party launchers widgets'"
 exclusive-patches = true
 patcher-args = "-e 'Custom theme' -ObackgroundColor=@android:color/system_neutral1_900 -OoverridePlayerGradientColor=true -ObackgroundColorSecondary=@android:color/system_neutral2_900 -OaccentColor=@android:color/system_accent1_200 -OaccentColorPressed=@android:color/system_accent1_300"
+
+[Spotify-Spoofed]
+uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
+arch = "both"
+build-mode = "both"
+included-patches = "'Hide Create button' 'Custom theme' 'Unlock Premium' 'Sanitize sharing links' 'Fix third party launchers widgets' 'Spoof client'"
+exclusive-patches = true
