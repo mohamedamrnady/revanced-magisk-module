@@ -1,9 +1,11 @@
-Spotify (arm64-v8a): 9.0.60.128  
-Spotify (arm-v7a): 9.0.60.128  
-Spotify-Amoled (arm64-v8a): 9.0.60.128  
-Spotify-Amoled (arm-v7a): 9.0.60.128  
-Spotify-Monet (arm64-v8a): 9.0.60.128  
-Spotify-Monet (arm-v7a): 9.0.60.128  
+Spotify (arm64-v8a): 9.0.62.603  
+Spotify (arm-v7a): 9.0.62.603  
+Spotify-Amoled (arm64-v8a): 9.0.62.603  
+Spotify-Amoled (arm-v7a): 9.0.62.603  
+Spotify-Monet (arm64-v8a): 9.0.62.603  
+Spotify-Monet (arm-v7a): 9.0.62.603  
+Spotify-Spoofed (arm64-v8a): 9.0.62.603  
+Spotify-Spoofed (arm-v7a): 9.0.62.603  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
@@ -11,5 +13,5 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.30.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.30.0)  
+Patches: ReVanced/patches-5.31.1.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.31.1)  
