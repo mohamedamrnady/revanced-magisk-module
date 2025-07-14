@@ -1,6 +1,6 @@
 {
-  "version": "v9.0.62.603 (patches 5.31.1)",
-  "versionCode": 118,
-  "zipUrl": "https://github.com/mohamedamrnady/revanced-magisk-module/releases/download/118/spotify-amoled-revanced-magisk-v9.0.62.603-arm-v7a.zip",
+  "version": "v9.0.62.603 (patches 5.31.2)",
+  "versionCode": 119,
+  "zipUrl": "https://github.com/mohamedamrnady/revanced-magisk-module/releases/download/119/spotify-amoled-revanced-magisk-v9.0.62.603-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/mohamedamrnady/revanced-magisk-module/update/build.md"
 }
